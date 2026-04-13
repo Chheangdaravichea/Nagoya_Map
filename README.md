@@ -46,30 +46,6 @@ Then open:
 
 
 
-IT3160-NagoyaMap-github-ready/
-├── backend/
-│   └── app/
-│       ├── api/
-│       │   ├── path.py
-│       │   └── scenarios.py
-│       ├── services/
-│       │   ├── pathfinding.py
-│       │   └── scenario.py
-│       └── main.py
-├── frontend/
-│   ├── css/
-│   │   └── style.css
-│   ├── js/
-│   │   ├── admin.js
-│   │   ├── config.js
-│   │   ├── map.js
-│   │   └── pathfinding.js
-│   ├── admin.html
-│   └── index.html
-├── map/
-├── .gitignore
-├── README.md
-└── requirements.txt
 
 ## Note
 This project still uses a curated road graph for a stable demo, not the full Nagoya OSM road graph.
